@@ -1,0 +1,9 @@
+nhl-buffalo-sabres-analysis/
+├── data/                # Store raw and processed datasets
+├── notebooks/           # Jupyter notebooks for analysis
+├── src/                 # Python scripts for data fetching, cleaning, and analysis
+├── tests/               # Unit tests for your code
+├── environment.yml      # Conda environment file
+├── requirements.txt     # Python package dependencies
+├── README.md            # Project description
+└── .gitignore           # Ignore unnecessary files
